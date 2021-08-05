@@ -1,3 +1,3 @@
 ### Hello / Bonjour
 
-My name is Alessandro Corazza. I'm a marketer & developer based in Moncton, Canada.
+My name is Alessandro Corazza. I'm based in Moncton, Canada.
